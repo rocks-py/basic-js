@@ -34,11 +34,11 @@ module.exports = {
 };
 
 // 12926
-console.log(dateSample('1'))
+// console.log(dateSample('1'))
 
 
-console.log(dateSample('9000'))
-console.log(dateSample('15.1'))
-console.log(dateSample('0'))
-console.log(dateSample('-5'))
-console.log(dateSample('-55.8'))
+// console.log(dateSample('9000'))
+// console.log(dateSample('15.1'))
+// console.log(dateSample('0'))
+// console.log(dateSample('-5'))
+// console.log(dateSample('-55.8'))
